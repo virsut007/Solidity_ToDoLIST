@@ -20,4 +20,4 @@ A smart contract-based Todo List created using Solidity and deployed via Remix I
 2. Upload `TodoList.sol` into the `contracts` folder.
 3. Compile the file (Ctrl + S).
 4. Deploy using "Remix VM (Cancun)".
-5. Add tasks and test the ‘’getMyTasks’, getSortedTasks’ and ‘getTasksByStatus functions.
+5. Add tasks and test the `getMyTasks`, `getSortedTasks` and `getTasksByStatus` functions.
