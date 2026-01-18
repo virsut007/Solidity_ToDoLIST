@@ -1,7 +1,20 @@
-#Todo List (Remix Deployment)
+# 🔗 Decentralized To-Do List (DApp)
 
-A smart contract-based Todo List created using Solidity and deployed via Remix IDE.
+A full-stack Web3 application that runs entirely on the Ethereum Blockchain (Sepolia Testnet). 
+Users can add, complete, and delete tasks, with every action saved permanently on-chain.
 
+## 🚀 Live Demo
+**https://soliditytodolist.vercel.app/**
+
+---
+
+## 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Blockchain Interaction:** Ethers.js (v5.7)
+* **Smart Contract:** Solidity (v0.8.0)
+* **Network:** Sepolia Testnet
+* **Wallet:** MetaMask
+* 
 ## Features
 - Add Tasks: Create tasks with description, category, and due date.
 - Delete Tasks: Delete the created tasks.
