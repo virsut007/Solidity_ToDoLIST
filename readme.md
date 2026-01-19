@@ -11,10 +11,10 @@ Users can add, complete, and delete tasks, with every action saved permanently o
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 * **Blockchain Interaction:** Ethers.js (v5.7)
-* **Smart Contract:** Solidity (v0.8.0)
+* **Smart Contract:** Solidity (v0.8.19)
 * **Network:** Sepolia Testnet
 * **Wallet:** MetaMask
-* 
+  
 ## Features
 - Add Tasks: Create tasks with description, category, and due date.
 - Delete Tasks: Delete the created tasks.
