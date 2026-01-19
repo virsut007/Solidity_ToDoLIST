@@ -5,6 +5,7 @@ Users can add, complete, and delete tasks, with every action saved permanently o
 
 ## 🚀 Live Demo
 **https://soliditytodolist.vercel.app/**
+(Note: Crypto Wallet(MetaMask) on sepolia network with sepoliaETH required to use ToDo List)
 
 ---
 
