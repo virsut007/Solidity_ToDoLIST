@@ -1,3 +1,4 @@
 # Ignore the frontend folder from language stats
 index/* linguist-vendored
 
+*.html linguist-detectable=false
